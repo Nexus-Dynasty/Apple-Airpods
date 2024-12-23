@@ -454,7 +454,7 @@ footer a:hover {
 
     header .logo {
         top: -5px;
-        left: 70px;
+        left: 45%;
         font-size: 2rem;
         position: absolute;
     }
@@ -507,7 +507,7 @@ footer a:hover {
 
     footer .logo i {
         top: 50%;
-        left: 40%;
+        left: 30%;
     }
 }
 
